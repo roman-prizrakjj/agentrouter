@@ -11,7 +11,7 @@ pip install agentrouter-sdk
 
 ### 2. Подключение
 ```python
-from agentrouter import AgentRouter
+from client import AgentRouter
 
 client = AgentRouter(api_key="ваш-ключ")
 ```
