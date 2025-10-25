@@ -1,0 +1,9 @@
+LICENSE
+README.md
+client.py
+pyproject.toml
+agentrouter_sdk.egg-info/PKG-INFO
+agentrouter_sdk.egg-info/SOURCES.txt
+agentrouter_sdk.egg-info/dependency_links.txt
+agentrouter_sdk.egg-info/requires.txt
+agentrouter_sdk.egg-info/top_level.txt

@@ -1,3 +1,27 @@
+Metadata-Version: 2.4
+Name: agentrouter-sdk
+Version: 0.1.0
+Summary: Простой SDK для работы с AgentRouter API
+Author: AgentRouter Team
+License: MIT
+Project-URL: Homepage, https://github.com/roman-prizrakjj/agentrouter
+Project-URL: Repository, https://github.com/roman-prizrakjj/agentrouter
+Keywords: ai,api,agentrouter,llm,deepseek
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: openai>=1.0.0
+Dynamic: license-file
+
 # AgentRouter SDK
 
 Библиотека для общения с AI моделями через AgentRouter API
@@ -6,7 +30,7 @@
 
 ### 1. Установка
 ```bash
-pip install agentrouter-sdk
+pip install agentrouter
 ```
 
 ### 2. Подключение
